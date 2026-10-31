@@ -1,0 +1,9 @@
+id,name,ward,bed,age,gender,disease,payment,date,doctor
+101,Sanika Sanap,general,1,20,women,stomack infaction,pending,10/10/2026,Dr.S.s.gosavi
+102,Shivani Babu,private,501,19,women,stomack infaction,complete,15/10/20226,Dr.A.S . ranganathatn
+104,Prakash Raj,private,505,35,men,cancer,complete,20/9/2026,Dr.G.D.
+109,Shreyas Godhe,general,3,9,men,maleriya,pending,24/20/26,Dr.M.swami
+199,Jayesh Gomane,private,501,30,men,maleriya,pending,10/10/26,Dr.G.D
+189,Shreya dimane,private,509,18,women,cancer,pending,25/10/26,Dr.Ranganathan
+166,Ahar thorat,private,504,25,other,Infection,complete,4/7/2026,Dr.om
+204,sahil babar,general,7,20,men,stomack infaction,complete,23/10/26,Dr.M.M
